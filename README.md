@@ -18,7 +18,7 @@
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: (linkedin.com/in/parameshd)
+- 💼 LinkedIn: (https://www.linkedin.com/in/parameshd/)
 - 📧 Email: (parameshdece2026@gmail.com)
 
 ---
