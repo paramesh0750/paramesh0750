@@ -1,20 +1,26 @@
 # Hi there 👋, I'm Paramesh
 
 ## 🚀 About Me
-- 🎓 ECE Student
-- 💻 Android Developer Intern
-- 📱 Skilled in Kotlin & Android Development
-- 🌱 Currently learning advanced app development
-- 🎯 Goal: To build real-world impactful applications
 
----
+I’m an Electronics and Communication Engineering graduate with a strong interest in software development and problem-solving.
+
+💻 Skilled in **Python, SQL, MySQL, Django, Object-Oriented Programming (OOP), and Data Structures**
+📱 Familiar with **Kotlin and Android Development**
+🌐 Interested in **backend development and software engineering**
+🌱 Continuously learning and improving my **programming and problem-solving skills**
+🎯 Looking for opportunities to grow as a **Software Developer** and contribute to real-world software solutions.
 
 ## 🛠️ Skills
-- 📱 Android Development
-- 💻 Kotlin
-- 🐍 Python (Basics)
-- 🌐 Git & GitHub
-  
+
+* 🐍 Python
+* 🗄️ SQL & MySQL
+* 🌐 Django
+* 💡 Object-Oriented Programming (OOP)
+* 🧩 Data Structures & Problem Solving
+* 📱 Kotlin & Android Development
+* 🔧 Git & GitHub
+
+ 
 ---
 
 ## 📫 Connect with Me
