@@ -5,9 +5,13 @@
 I’m an Electronics and Communication Engineering graduate with a strong interest in software development and problem-solving.
 
 💻 Skilled in **Python, SQL, MySQL, Django, Object-Oriented Programming (OOP), and Data Structures**
+
 📱 Familiar with **Kotlin and Android Development**
+
 🌐 Interested in **backend development and software engineering**
+
 🌱 Continuously learning and improving my **programming and problem-solving skills**
+
 🎯 Looking for opportunities to grow as a **Software Developer** and contribute to real-world software solutions.
 
 ## 🛠️ Skills
