@@ -1,30 +1,41 @@
-# Hi there 👋, I'm Paramesh
-
 ## 🚀 About Me
 
-I’m an Electronics and Communication Engineering graduate with a strong interest in software development and problem-solving.
+**👋 Hi, I'm Paramesh!**
 
-💻 Skilled in **Python, SQL, MySQL, Django, Object-Oriented Programming (OOP), and Data Structures**
+I'm an Electronics and Communication Engineering graduate with a strong interest in **Data Analytics, Software Development, and Problem-Solving**.
 
-📱 Familiar with **Kotlin and Android Development**
+📊 **Data Analytics:** Python, SQL, MySQL, Microsoft Excel, Power BI, Pandas, NumPy, and Data Visualization.
 
-🌐 Interested in **backend development and software engineering**
+📱 **Android Development:** Familiar with Kotlin and Android application development.
 
-🌱 Continuously learning and improving my **programming and problem-solving skills**
+💡 **Areas of Interest:** Data Analysis, Business Intelligence, Data Visualization, and Software Development.
 
-🎯 Looking for opportunities to grow as a **Software Developer** and contribute to real-world software solutions.
+🌱 **Currently Learning:** Improving my analytical, programming, and problem-solving skills through hands-on projects and continuous learning.
+
+🎯 **Career Goal:** Seeking opportunities in **Data Analytics**, where I can apply my technical skills to analyze data, generate insights, and support data-driven business decisions.
+
+---
+
 
 ## 🛠️ Skills
 
-* 🐍 Python
-* 🗄️ SQL & MySQL
-* 🌐 Django
-* 💡 Object-Oriented Programming (OOP)
-* 🧩 Data Structures & Problem Solving
-* 📱 Kotlin & Android Development
-* 🔧 Git & GitHub
+### 📊 Data Analytics
+- 🐍 Python
+- 🗄️ SQL & MySQL
+- 📈 Microsoft Excel
+- 📊 Power BI
+- 🧮 Pandas & NumPy
+- 📉 Data Analysis & Visualization
 
- 
+### 💻 Software Development
+- 🌐 Django
+- 💡 Object-Oriented Programming (OOP)
+- 🧩 Data Structures & Problem Solving
+- 📱 Kotlin & Android Development
+
+### 🔧 Tools
+- 🐙 Git & GitHub
+
 ---
 
 ## 📫 Connect with Me
